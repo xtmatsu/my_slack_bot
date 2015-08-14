@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export HUBOT_SLACK_TOKEN=xoxb-9118847061-ygjghoExVWWBza2AyKQiFHmd
+export HUBOT_SLACK_TEAM=mat-private
+export HUBOT_SLACK_BOTNAME=hubot
+
+bin/hubot --adapter slack
